@@ -126,19 +126,14 @@ EventBridge (Schedule)
 - Cost‑efficient snapshots
 
 ---
+## Output 
+<img width="1912" height="811" alt="Screenshot 2026-04-14 181947" src="https://github.com/user-attachments/assets/340d09b1-b490-455d-9550-06d93837307b" />
+<img width="1919" height="775" alt="Screenshot 2026-04-14 182016" src="https://github.com/user-attachments/assets/dab465b7-eced-4eea-b6ca-b608b33fa176" />
+<img width="1919" height="815" alt="Screenshot 2026-04-14 182257" src="https://github.com/user-attachments/assets/e054d711-1da2-4258-b10a-ce559199e8bd" />
 
 ## 🧑‍💻 Author
 **Anand Mahangade**  
 Cloud & DevOps Engineer (Fresher)
 
 ---
-
-## ⭐ GitHub Usage
-This repository demonstrates:
-- AWS automation
-- Lambda + boto3
-- Real‑world cloud backup strategy
-- Production‑ready serverless design
-
-Feel free to fork, improve, and use 🚀
 
