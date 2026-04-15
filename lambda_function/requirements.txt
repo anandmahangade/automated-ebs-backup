@@ -1,0 +1,2 @@
+boto3
+( Note: boto3 is preinstalled in AWS Lambda, this file is mainly for local testing)
